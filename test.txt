@@ -1,4 +1,4 @@
 Hello Git!
 It's new line.
 Some changes.
-1234
+1234666
