@@ -1,4 +1,4 @@
-Change for master branch.
+This file was changed by dev and master branches.
 Eee. Hello Git!
 It's new line.
 Some changes.
